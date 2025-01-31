@@ -1,0 +1,19 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    align-items: center;
+}
+.leftWord{
+    color: black;
+}
+.headerTitle{
+    color: blueviolet;
+}
+.navigation
+
+.navList{
+    display: flex;
+    gap: 10px;
+    list-style-type: none;
+}
